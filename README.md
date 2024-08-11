@@ -37,7 +37,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/string-uppercase-dapp.git
+    git clone https://github.com/NuelUzoma/string-uppercase-dapp.git
     cd string-uppercase-dapp
     ```
 
